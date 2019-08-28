@@ -1,0 +1,26 @@
+{
+  "name": "next-blog",
+  "version": "1.0.0",
+  "description": "Next blog is a boilerplate blog app built with Nextjs Framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsesay/next-blog.git"
+  },
+  "author": "Muhammad Mustapha Sesay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmsesay/next-blog/issues"
+  },
+  "homepage": "https://github.com/mmsesay/next-blog#readme",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
